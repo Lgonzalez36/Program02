@@ -1,0 +1,79 @@
+|___________________||__ex1_sentence_____||__ex2_Lincoln______||__ex3_Wiz_Of_Odd___||_ex4_War_and_Peace_|
+|____Total Words____||________6__________||________278________||______41680________||____586152_________|
+|____Diff__Words____||________5__________||________142________||_______2949________||___211669__________|
+|____War___Count____||________0__________||________2__________||_________0_________||______292__________|
+|____Peace Count____||________0__________||________0__________||_________2_________||______108__________|
+
+File: ex1_sentence.txt                Time it took to read it
+Top 20 Words :                        ArrayList: 1 milsec
+Top Words the 2                       HashMap: 0 milsec
+Top Words  1                          BST: 0 sec
+Top Words in 1
+Top Words paris 1
+Top Words spring 1
+
+File: ex2_lincoln.txt                Time it took to read it
+Top 20 Words :                       ArrayList: 1 milsec
+Top 20 Words that 13                 HashMap: 0 milsec
+Top 20 Words the 11                  BST: 0 sec
+Top 20 Words we 10
+Top 20 Words here 8
+Top 20 Words to 8
+Top 20 Words a 7
+Top 20 Words and 6
+Top 20 Words can 5
+Top 20 Words for 5
+Top 20 Words have 5
+Top 20 Words it 5
+Top 20 Words nation 5
+Top 20 Words not 5
+Top 20 Words of 5
+Top 20 Words dedicated 4
+Top 20 Words in 4
+Top 20 Words this 4
+Top 20 Words  3
+Top 20 Words are 3
+
+File: ex3_wizard_oz.txt                Time it took to read it
+Top 20 Words :                         ArrayList: 126 milsec
+Top 20 Words the 3004                  Hash Map: 19 milsec
+Top 20 Words  2010                     BST: 18 milsec
+Top 20 Words and 1670
+Top 20 Words to 1117
+Top 20 Words of 847
+Top 20 Words a 807
+Top 20 Words i 594
+Top 20 Words was 504
+Top 20 Words you 489
+Top 20 Words in 483
+Top 20 Words he 452
+Top 20 Words it 421
+Top 20 Words her 410
+Top 20 Words they 401
+Top 20 Words she 398
+Top 20 Words that 389
+Top 20 Words dorothy 347
+Top 20 Words said 332
+Top 20 Words as 329
+
+File: ex4_war_and_peace.txt                Time it took to read it
+Top 20 Words :                             ArrayList: 5590 milsec
+Top 20 Words the 34128                     HashMap: 236 milsec
+Top 20 Words and 21759                     BSt: 339 milsec
+Top 20 Words to 16552
+Top 20 Words of 14857
+Top 20 Words  13606
+Top 20 Words a 10355
+Top 20 Words he 9668
+Top 20 Words in 8910
+Top 20 Words ” 8614
+Top 20 Words his 7957
+Top 20 Words that 7697
+Top 20 Words was 7319
+Top 20 Words with 5633
+Top 20 Words had 5351
+Top 20 Words it 5031
+Top 20 Words her 4695
+Top 20 Words not 4598
+Top 20 Words him 4566
+Top 20 Words at 4497
